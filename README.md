@@ -29,6 +29,7 @@ A collaborative project by ALX Software Engineering to implement the inbuilt `pr
 | [📌](#printf_reverse)  | [printf_reverse.c](./printf_reverse.c)         | Contains code that prints in reverse using `%r`. |
 | [📌](#printf_string)  | [printf_string.c](./printf_string.c)         | Contains code that prints a string suing `%s`. |
 | [📌](#printf_unsigned)  | [printf_unsigned.c](./printf_unsigned.c)         | Contains code that prints an unsigned integer using `%u`. |
+| [📌](#switch)  | [switch.c](./switch.c)         | Contains code that selects appropriate handler. |
 
 
 # Change Log
