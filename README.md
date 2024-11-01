@@ -1,5 +1,5 @@
-# 0x11. C - printf - By Antony Muga & Nicholas Oyengo of ALX
-A collaborative project by ALX Software Engineering to implement the inbuilt `printf` function in c from scratch.
+# 0x11. C - printf - By Antony Muga
+A project by ALX Software Engineering to implement the inbuilt `printf` function in c from scratch.
 
 
 ## Table of Contents
@@ -36,7 +36,7 @@ A collaborative project by ALX Software Engineering to implement the inbuilt `pr
 
 ## Version 1.0
 - Released version 1.0
-- All code is betty compliant
+- All code is Betty-compliant
 - The manual page is present
 
 
@@ -44,4 +44,3 @@ A collaborative project by ALX Software Engineering to implement the inbuilt `pr
 # Authors
 
 - Antony Muga - [Github](http://github.com/antonymuga) , [Twitter](https://twitter.com/DevAntonyMuga)
-- Nicholas Oyengo - [Github](https://github.com/vintexlens)
